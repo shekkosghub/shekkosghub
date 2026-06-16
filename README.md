@@ -4,10 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning;Deep+Learning;Writer;Video+Games+Developer+and+Designer;Software+Solutions+Architect;IT+Entrepreneur;Always+learning+new+things"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sergio-segura&label=Visitas&color=0e75b6&style=flat" alt="Visitas" />
-</p>
-
 ## 🚀 About Me
 
 I am a **Systems Engineer, Software Architect, and Artificial Intelligence Specialist** with over 18 years of professional experience. I am passionate about building robust solutions, continuously learning, and exploring the frontiers of technology—from traditional backend development to serverless architectures and machine learning models. 
@@ -65,6 +61,28 @@ I currently work on software development and artificial intelligence projects as
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
   </a>
 </p>
+
+<!-- ## 🚥 Activity
+
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
+ 
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shekkosghub&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shekkosghub" />
+</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shekkosghub&show_icons=true&locale=en&theme=chartreuse-dark" alt="shekkosghub" width="410"/>
+</p>
+
+<br><br><br><br><br><br><br><br>
+
+![Sergio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shekkosghub&custom_title=Sergio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+</p>
+
+
+<br> -->
 
 ---
 ⭐️ *Developed with a passion for clean code and artificial intelligence.*
