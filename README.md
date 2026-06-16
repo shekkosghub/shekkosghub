@@ -1,7 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Sergio Segura Gómez 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning;Deep+Learning;Writer;Video+Games+Developer+and+Designer;Software+Solutions+Architect;IT+Entrepreneur;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning;Deep+Learning;Writer;Video+Game+Developer+and+Designer;Software+Solutions+Architect;IT+Entrepreneur;Always+learning+new+things"></a>
 </p>
 
 ## 🚀 About Me
@@ -14,11 +14,16 @@ I currently work on software development and artificial intelligence projects as
 - 💼 I served as a **Technical Lead** at a Mexican company for over 6 years, leading agile multidisciplinary teams (Development, QA, DevOps, UX/UI).
 - ✍️ I write about AI and technology on [My AI Blog](https://elblogdeia.blog/).
 - 📚 Author of the book [Hands-On Machine Learning with Python and scikit-learn on Google Colab](https://www.amazon.com/dp/B0H1PC994S)
-- 👾 I want to advance my career in what has been my passion since childhood: video game design and development. I design and develop indie video games (Godot, Phaser, GameMaker, and others engines)
-- 🎲 I like tabletop role-playing games like Dungeons & Dragons, where I love being the storyteller.
+- 👾 I want to advance my career in what has been my passion since childhood: video game design and development. I design and develop indie video games (Godot, Phaser, GameMaker, and other engines)
+- 🎲 I enjoy tabletop RPGs like Dungeons & Dragons, where I love being the storyteller.
 
 ---
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
+    alt="iscpatricio92" />
+</p>
 
+---
 ## 🛠️ Technologies and Tools
 
 ### Artificial Intelligence & Machine Learning
