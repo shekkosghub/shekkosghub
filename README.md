@@ -65,6 +65,9 @@ I currently work on software development and artificial intelligence projects as
   <a href="https://elblogdeia.blog/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
   </a>
+  <a href="https://shekko.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
+  </a>
 </p>
 
 <!-- ## 🚥 Activity
