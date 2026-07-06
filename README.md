@@ -68,6 +68,9 @@ I currently work on software development and artificial intelligence projects as
   <a href="https://shekko.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
   </a>
+  <a href="https://facebook.com/61589650632419" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 <!-- ## 🚥 Activity
