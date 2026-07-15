@@ -71,6 +71,9 @@ I currently work on software development and artificial intelligence projects as
   <a href="https://facebook.com/61589650632419" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="https://x.com/Es_IA_y_ML" target="_blank">
+    <img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white" alt="X.com" />
+  </a>
 </p>
 
 <!-- ## 🚥 Activity
