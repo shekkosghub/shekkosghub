@@ -10,6 +10,8 @@ I am a **Systems Engineer, Software Architect, and Artificial Intelligence Speci
 
 I currently work on software development and artificial intelligence projects as a freelancer, seeking 100% remote opportunities where I can contribute my technical leadership experience.
 
+I run [Clarvex AI](https://clarvexai.com/), where I build the page that explains a service and the assistant that answers when the owner is not there. The work is remote from Monterrey, for small teams in Mexico and Latin America. I also take selected freelance projects.
+
 - 🎓 I have a **Master's degree in Artificial Intelligence**.
 - 💼 I served as a **Technical Lead** at a Mexican company for over 6 years, leading agile multidisciplinary teams (Development, QA, DevOps, UX/UI).
 - ✍️ I write about AI and technology on [My AI Blog](https://elblogdeia.blog/).
@@ -55,6 +57,9 @@ I currently work on software development and artificial intelligence projects as
 <p align="center">
   <a href="https://www.linkedin.com/in/sergio-segura-gomez-31b48424" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://clarvexai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Clarvex_AI-1E232B?style=for-the-badge&logo=astro&logoColor=2F6BFF" alt="Clarvex AI" />
   </a>
   <a href="https://www.workana.com/freelancer/b44fc2c262a647c5da20204faaf7828d" target="_blank">
     <img src="https://img.shields.io/badge/Workana-0E75B6?style=for-the-badge&logo=upwork&logoColor=white" alt="Workana" />
